@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Áurea and I'm a I'm a student of Software Engineering from FIAP</p>
+<p align="left">My name is Áurea and I'm a student of Software Engineering from FIAP</p>
 
 ###
 
