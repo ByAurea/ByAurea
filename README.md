@@ -66,7 +66,7 @@
 ## ☕ Support my coffee addiction
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/333kitty" target="_blank">
     <img src="https://img.shields.io/badge/Buy me a coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
