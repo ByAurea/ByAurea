@@ -13,7 +13,7 @@
 ## 🌸 About Me
 
 - 🎓 I'm currently studying **Software Engineering** at FIAP  
-- 📚 Learning: `Python`, `HTML`, and `Git` (and sometimes I fight with Java too 😅)  
+- 📚 Learning: `Python`, `HTML`, `JavaScript`, and `Git` (and sometimes I fight with Java too 😅)  
 - 💡 Dream: To become a tech entrepreneur and launch a revolutionary company 💼🌍 _(then I’ll be rich 💸)_  
 - 🎲 Fun fact: I love dancing 💃 and I'm obsessed with cats 🐈  
 - 🎮 I play **Valorant**, **The Sims 4**, and **Roblox** (catch me online 🕹️)  
