@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning I'm currently learning Python, HTML and git<br>🎯 Goals: To become a dev and have a revolutionary idea (and then i'll be rich)<br>🎲 Fun fact: I dance and i love cats</p>
+<p align="left">📚 I'm currently learning Python, HTML and git<br>🎯 Goals: To become a dev and have a revolutionary idea (and then i'll be rich)<br>🎲 Fun fact: I dance and i love cats</p>
 
 ###
 
