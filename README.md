@@ -26,8 +26,8 @@
 
 ## 📈 GitHub Stats
 
-![aurea-sc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurea-sc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![aurea-sc's Stats](https://github-readme-stats.vercel.app/api?username=aurea-sc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![aurea-sc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byaurea&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![aurea-sc's Stats](https://github-readme-stats.vercel.app/api?username=byaurea&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
    </td>
