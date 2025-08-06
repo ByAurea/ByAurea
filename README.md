@@ -2,7 +2,7 @@
 <h3 align="center">Student of Software Engineering at FIAP ❤</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+to+code+with+love+💻💖;Future+game+dev+🎮🛠️;Crazy+cat+lady+in+training+🐱;Coffee-powered+student+☕🚀&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+to+code+with+love+💻💖;Web+dev🛠️;Crazy+cat+lady+in+training+🐱;Coffee-powered+student+☕🚀&center=true&width=440&height=45">
 </p>
 
 ---
