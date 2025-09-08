@@ -46,6 +46,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
 </p>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+</div>
+
 ---
 
 ## 🌐 Let's connect!
@@ -58,7 +71,6 @@
 
 <p align="center">
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Work-25D366?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Looking for Internship" src="https://img.shields.io/badge/Looking%20for%20Internship-FFB6C1?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
